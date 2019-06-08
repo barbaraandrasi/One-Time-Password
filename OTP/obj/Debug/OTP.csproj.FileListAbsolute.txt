@@ -1,0 +1,10 @@
+D:\Projects\C#\OTP\OTP\bin\Debug\OTP.exe.config
+D:\Projects\C#\OTP\OTP\bin\Debug\OTP.exe
+D:\Projects\C#\OTP\OTP\bin\Debug\OTP.pdb
+D:\Projects\C#\OTP\OTP\obj\Debug\OTP.csprojResolveAssemblyReference.cache
+D:\Projects\C#\OTP\OTP\obj\Debug\OTP.Form1.resources
+D:\Projects\C#\OTP\OTP\obj\Debug\OTP.Properties.Resources.resources
+D:\Projects\C#\OTP\OTP\obj\Debug\OTP.csproj.GenerateResource.Cache
+D:\Projects\C#\OTP\OTP\obj\Debug\OTP.csproj.CoreCompileInputs.cache
+D:\Projects\C#\OTP\OTP\obj\Debug\OTP.exe
+D:\Projects\C#\OTP\OTP\obj\Debug\OTP.pdb
